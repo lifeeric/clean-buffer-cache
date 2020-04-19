@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Author: @lifeEric on github.com
+# Version: 1.0
+
+
+# Clear PageCache, dentries and inodes
+
+sync; echo 3 > /proc/sys/vm/drop_caches
+
+exit 0
