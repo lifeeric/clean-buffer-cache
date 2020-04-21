@@ -6,10 +6,10 @@ It will delete the cache in your local machine or remote machine, sometime cache
 
 ## Getting Started
 
-The the below command in you command line:
+The below command in you command line:
 
 ```
-git clone https://github.com/lifeeric/clean-buffer-cache
+git clone https://github.com/lifeeric/clean-buffer-cache.git
 
 cd clean-buffer-cache
 
@@ -35,10 +35,3 @@ sudo cleanc
 ## License
 
 Free to use, modify, change!
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
